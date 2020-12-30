@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a8a1cafb853e710428655880d53e0fdc
+timeCreated: 1545771534
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SHMUP in the zone
+  fontNames:
+  - SHMUP in the zone
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

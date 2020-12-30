@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8b2037265d97add40954487641984e19
+timeCreated: 1550584548
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JMH PR
+  fontNames:
+  - JMH PR
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
